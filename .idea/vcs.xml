@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/API" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/API/API-BACKEND-JWT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app_tela" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frontAPI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/frontAPI/consumoAPI-android-nativo---Retrofit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/intent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jet_pack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jet_pack/Nova pasta" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/prototipo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/prototipo/prototipo_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/prototipo_gabriel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springbootGit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springbootGit/projectsjoao" vcs="Git" />
+  </component>
+</project>
