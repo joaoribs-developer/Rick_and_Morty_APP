@@ -32,7 +32,7 @@ data class Character(
     val image: String,
 
     @SerializedName("episode")
-    val episode: Array<String>,
+    val episode: List<String>,
 
     @SerializedName("url")
     val url:String,
